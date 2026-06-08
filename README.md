@@ -5,7 +5,7 @@
 [![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 
-🔗 **Live demo:** _<add your Streamlit Cloud URL here>_
+🔗 **Live demo:** _<https://clearhire.streamlit.app>_
 
 ![Clearhire landing page](docs/images/landing.png)
 
