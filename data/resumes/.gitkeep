@@ -1,0 +1,2 @@
+# Keeps the resumes/ folder in version control while its contents stay ignored.
+# Real uploaded resumes are written here at runtime and must never be committed.
