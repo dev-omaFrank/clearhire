@@ -1,6 +1,6 @@
 # Clearhire
 
-**An AI-assisted resume screening platform that ranks candidates on skills and experience — and anonymizes personal information before scoring to reduce hiring bias.**
+**An AI-assisted resume screening platform that ranks candidates on skills and experience, and anonymizes personal information before scoring to reduce hiring bias.**
 
 [![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
