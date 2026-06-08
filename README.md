@@ -13,7 +13,7 @@
 
 ## What it does
 
-Clearhire helps employers screen job applications faster and more fairly. An employer posts a vacancy and shares a unique application link. Candidates apply with their resume, and Clearhire automatically scores each resume against the job — analysing **skills**, **experience**, and overall **content relevance** — then presents ranked candidates to the hiring team in a clean dashboard.
+Clearhire helps employers screen job applications faster and more fairly. An employer posts a vacancy and shares a unique application link. Candidates apply with their resume, and Clearhire automatically scores each resume against the job, analysing **skills**, **experience**, and overall **content relevance**, then presents ranked candidates to the hiring team in a clean dashboard.
 
 Unlike a naive keyword filter, Clearhire is built with **responsible screening** in mind: it strips personally identifiable information (name, email, phone) from each resume *before* the scoring engine ever sees it, so decisions are driven by qualifications rather than identity.
 
