@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Live application data (never commit real candidate data)
+data/submissions.db
+data/resumes/*
+!data/resumes/.gitkeep
+
+# no committed synthetic demo data
+data/demo/
